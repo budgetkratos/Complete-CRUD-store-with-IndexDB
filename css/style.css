@@ -1,0 +1,22 @@
+.d-flex input{
+    margin: 1rem 0;
+}
+
+.d-flex button {
+    margin: 1.5rem 0.5rem;
+    padding: 0.5rem 2.5rem;
+}
+
+.container{
+    width: 55%;
+}
+
+table .btnEdit {
+    color: lightgreen;
+    cursor: pointer;
+}
+
+table .btnTrash {
+    color: red;
+    cursor: pointer;
+}
